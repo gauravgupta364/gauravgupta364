@@ -1,87 +1,113 @@
-<p align="center">
-  <!-- Animated typing title -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Gaurav+Gupta;Software+Engineer+%E2%9A%80%EF%B8%8F+Creator+%7C+Java+%7C+React+%7C+TypeScript" alt="typing">
-</p>
+<br/>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#00E5FF">Gaurav Gupta</span></h1>
 
 <p align="center">
-  <!-- Neon style small subtitle -->
-  <em style="color:#9BE7FF">Building futuristic UIs, teaching Java & DSA, and creating cheeky coding content.</em>
-</p>
-
----
-
-## 🔭 Quick info
-- **Name:** Gaurav Gupta  
-- **Experience:** 5+ years industry experience (backend & frontend)  
-- **Primary Focus:** Java, React, TypeScript, FastAPI, Web UI, Creator content  
-- **Portfolio:** https://gauravbits.in  
-- **Email:** contactgaurav8@gmail.com
-
----
-
-## 🔥 Eye-candy: Neon banner
-<p align="center">
-  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&lines=Neon+UX+%E2%9A%A1+3D+elements+%7C+Glowy+particles+%7C+GSAP+animations">
-</p>
-
----
-
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TS"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs" alt="three.js"/>
-</p>
-
----
-
-## 🚀 Projects (short & punchy)
-> Click to open — make sure repo slugs match these names or replace the links.
-
-- **Portfolio** — [gauravbits.in](https://gauravbits.in) — 3D, neon, GSAP animations, particle background.  
-- **Gym Membership** — `gym-membership` — membership, payments, dashboard.  
-- **Legal Document Simplifier** — `legal-doc-simplifier` — NLP summarizer and clause highlighter.  
-- **Personal Finance Tracker** — `finance-tracker` — budgets, charts, export to CSV.
-
-*(If your actual repo names differ, replace the above links with your real repo URLs.)*
-
----
-
-## 📈 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravgupta364&show_icons=true&theme=react&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravgupta364&theme=react&hide_border=true" alt="streak" />
+  Frontend Engineer • Java | React | TypeScript • Tech Creator  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta364&layout=compact&theme=react&hide_border=true" alt="top languages" />
+  <a href="https://gauravbits.in"><b>Portfolio</b></a> •
+  <a href="https://www.instagram.com/gauravbits/">Instagram</a> •
+  <a href="https://x.com/gauravbuilds">Twitter</a> •
+  <a href="https://www.youtube.com/">YouTube</a> •
+  <a href="https://www.linkedin.com/in/gaurav-gupta-4179671b0/">LinkedIn</a> •
+  <a href="mailto:contactgaurav8@gmail.com">Email</a>
+</p>
+
+<br/>
+
+<!-- Hero Gradient Box -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Gaurav%20Gupta&text2=Frontend%20Developer&width=1100&height=250" />
+</p>
+
+<br/>
+
+## 🚀 About Me
+Frontend developer + software engineer with 5 years of experience building  
+**high-quality, fast, visually polished web experiences** using React, TypeScript,  
+Tailwind, and modern animations (GSAP / Framer Motion).
+
+I also create content on **tech, coding, design, and career growth**, teaching  
+Java + DSA and building real-world projects for developers.
+
+---
+
+## 🧠 Tech Expertise
+
+### **Languages**
+`Java` • `TypeScript` • `JavaScript` • `Python`
+
+### **Frontend**
+`React` • `Next.js` • `Tailwind CSS` • `GSAP` • `Framer Motion` • `Three.js`
+
+### **Backend**
+`FastAPI` • `Node.js` • `REST APIs`
+
+### **Other**
+`Git` • `Figma` • `UI/UX` • `System Design Basics`
+
+---
+
+## 🎯 Featured Work
+
+### 🔹 **Personal Portfolio — gauravbits.in**  
+A neon-modern, high-end portfolio with 3D elements, animations, and a clean UI.
+
+### 🔹 **Gym Membership System**  
+Full-stack membership management with dashboards + payment flow.
+
+### 🔹 **Legal Document Simplifier**  
+NLP-based tool that converts complex legal text into clear summaries.
+
+### 🔹 **Finance Tracker**  
+A personal finance manager with charts, insights, and monthly breakdowns.
+
+---
+
+## 📈 GitHub Performance
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gauravgupta364&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&text_color=cccccc" />
+  <img height="160" src="https://streak-stats.demolab.com?user=gauravgupta364&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta364&layout=compact&hide_border=true&theme=transparent&title_color=00e5ff&text_color=cccccc" />
 </p>
 
 ---
 
-## ✨ Live / Dynamic Widgets
-- Contribution Heatmap:  
-  <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contrib-snake"/></p>
-
-- WakaTime (coding activity) — *add your WakaTime username below if you use it*  
-  `![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)`
-
----
-
-## 📺 Latest Content
-- **YouTube:** *Latest video* — replace `YOUR_YT_CHANNEL_ID` in the workflow/script to auto-insert your latest video card.  
-- **Instagram / Reels:** Add your handle below to show a badge.
+## 🌐 Socials
+<p align="center">
+  <a href="https://gauravbits.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"></a>
+  <a href="https://www.instagram.com/gauravbits/"><img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/gauravbuilds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gaurav-gupta-4179671b0/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contactgaurav8@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/gauravgupta364"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🔗 Socials (replace placeholders)
-<p>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM_HANDLE-FF0080?style=for-the-badge&logo=instagram" alt="instagram"></a>
-  <a href="https://youtube.com/c/YOUR_YT_CHANNEL"><img src="https://img.shields.io/badge/YouTube-@YOUR_YT_CHANNEL-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER_HANDLE-1DA1F2?style=for-the-badge&logo=twitter" alt="twitter"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-@YOUR_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
-  <a href="mailto:contactgaurav8@gmail.com"><img src="https://img.shields.io/badge/Email-contactgaurav8@gmail.com-3b82f6?style=for-the-badge&logo=gmail" alt="email"></a>
+## 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ✨ Current Goals
+- Scaling **GauravBits** brand across Instagram + YouTube  
+- Completing **Java + DSA full course**  
+- Building AI + Web Dev tools  
+- Writing clean, elegant React + TypeScript code every day
+
+---
+
+<br/><br/>
+
+<p align="center">  
+Made with ❤️ by <strong>Gaurav Gupta</strong>  
 </p>
