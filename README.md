@@ -1,117 +1,91 @@
-<!-- CLEAN · MODERN · GRADIENT · PURE HTML/CSS README (GitHub-safe) -->
-
-<h1 align="center" style="font-size: 42px; margin-bottom: 0; 
-background: linear-gradient(90deg,#00e5ff,#7a5cff,#ff4dff);
--webkit-background-clip: text; color: transparent;">
-  Gaurav Gupta
-</h1>
-
-<p align="center" style="font-size: 16px; opacity: 0.85;">
-  Frontend Engineer • React • TypeScript • Motion & 3D • Content Creator
+<p align="center">
+  <!-- Animated typing title -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Gaurav+Gupta;Software+Engineer+%E2%9A%80%EF%B8%8F+Creator+%7C+Java+%7C+React+%7C+TypeScript" alt="typing">
 </p>
-
-<br/>
-
-<!-- Gradient Card -->
-<div align="center">
-  <div style="
-    width: 90%;
-    max-width: 900px;
-    padding: 22px;
-    border-radius: 14px;
-    border: 1px solid rgba(255,255,255,0.08);
-    background: rgba(255,255,255,0.04);
-    backdrop-filter: blur(12px);
-    box-shadow: 0 0 24px rgba(0,229,255,0.15);
-  ">
-    <h2 style="margin: 0; 
-    background: linear-gradient(90deg,#00e5ff,#7a5cff,#ff4dff);
-    -webkit-background-clip: text; color: transparent;
-    font-size: 26px;">
-      🚀 About Me
-    </h2>
-    <p style="font-size: 15px; color: #d8e8ff;">
-      I craft high-end frontend experiences using React, TypeScript, GSAP and Three.js.  
-      I build neon, motion-first web apps, and I create content on tech, coding & design.
-    </p>
-  </div>
-</div>
-
-<br/>
-
-<!-- Skills -->
-<h2 align="left" 
-style="background: linear-gradient(90deg,#00e5ff,#a67bff);
--webkit-background-clip: text; color: transparent;">
-  🛠 Tech Stack
-</h2>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <img height="28" src="https://cdn.simpleicons.org/react/00e5ff" />
-  <img height="28" src="https://cdn.simpleicons.org/typescript/3178c6" />
-  <img height="28" src="https://cdn.simpleicons.org/tailwindcss/38bdf8" />
-  <img height="28" src="https://cdn.simpleicons.org/javascript/f7df1e" />
-  <img height="28" src="https://cdn.simpleicons.org/three.js/ffffff" />
-  <img height="28" src="https://cdn.simpleicons.org/python/ffd343" />
-  <img height="28" src="https://cdn.simpleicons.org/fastapi/00a884" />
-
-</div>
-
-<br/><br/>
-
-<!-- Projects -->
-<h2 align="left"
-style="background: linear-gradient(90deg,#00e5ff,#ff4dff);
--webkit-background-clip: text; color: transparent;">
-  📂 Featured Projects
-</h2>
-
-- 🔥 **Portfolio – gauravbits.in**  
-  Neon, minimal, 3D elements, GSAP animations, particles.  
-
-- 🏋️ **Gym Membership System**  
-  Dashboard + payments + admin flow.  
-
-- ⚖️ **Legal Document Simplifier**  
-  NLP-based legal text summarization.  
-
-- 💰 **Finance Tracker**  
-  Insights, charts, analytics-focused UI.
-
-<br/><br/>
-
-<!-- Contact -->
-<h2 align="left" 
-style="background: linear-gradient(90deg,#7a5cff,#ff4dff);
--webkit-background-clip: text; color: transparent;">
-  🌍 Connect With Me
-</h2>
-
-<p>
-  <a href="https://gauravbits.in">🔗 Portfolio</a> •
-  <a href="https://www.instagram.com/gauravbits/">📷 Instagram</a> •
-  <a href="https://x.com/gauravbuilds">🐦 X (Twitter)</a> •
-  <a href="https://www.linkedin.com/in/gaurav-gupta-4179671b0/">💼 LinkedIn</a> •
-  <a href="mailto:contactgaurav8@gmail.com">✉️ Email</a>
-</p>
-
-<br/>
-
-<!-- Stats -->
-<h2 align="center"
-style="background: linear-gradient(90deg,#00e5ff,#a67bff);
--webkit-background-clip: text; color: transparent;">
-  📈 GitHub Stats
-</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravgupta364&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravgupta364&theme=tokyonight" height="150"/>
+  <!-- Neon style small subtitle -->
+  <em style="color:#9BE7FF">Building futuristic UIs, teaching Java & DSA, and creating cheeky coding content.</em>
 </p>
 
-<br/><br/>
+---
 
-<p align="center" style="font-size: 13px; opacity: 0.6;">
-  Designed with ❤️ by Gaurav Gupta  
+## 🔭 Quick info
+- **Name:** Gaurav Gupta  
+- **Experience:** 5+ years industry experience (backend & frontend)  
+- **Primary Focus:** Java, React, TypeScript, FastAPI, Web UI, Creator content  
+- **Portfolio:** https://gauravbits.in  
+- **Email:** contactgaurav8@gmail.com
+
+---
+
+## 🔥 Eye-candy: Neon banner
+<p align="center">
+  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&lines=Neon+UX+%E2%9A%A1+3D+elements+%7C+Glowy+particles+%7C+GSAP+animations">
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TS"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs" alt="three.js"/>
+</p>
+
+---
+
+## 🚀 Projects (short & punchy)
+> Click to open — make sure repo slugs match these names or replace the links.
+
+- **Portfolio** — [gauravbits.in](https://gauravbits.in) — 3D, neon, GSAP animations, particle background.  
+- **Gym Membership** — `gym-membership` — membership, payments, dashboard.  
+- **Legal Document Simplifier** — `legal-doc-simplifier` — NLP summarizer and clause highlighter.  
+- **Personal Finance Tracker** — `finance-tracker` — budgets, charts, export to CSV.
+
+*(If your actual repo names differ, replace the above links with your real repo URLs.)*
+
+---
+
+## 📈 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravgupta364&show_icons=true&theme=react&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravgupta364&theme=react&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta364&layout=compact&theme=react&hide_border=true" alt="top languages" />
+</p>
+
+---
+
+## ✨ Live / Dynamic Widgets
+- Contribution Heatmap:  
+  <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contrib-snake"/></p>
+
+- WakaTime (coding activity) — *add your WakaTime username below if you use it*  
+  `![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)`
+
+---
+
+## 📺 Latest Content
+- **YouTube:** *Latest video auto-update coming soon*  
+- **Instagram / Reels:** Follow me: **@gauravbits**
+
+---
+
+## 🔗 Socials
+<p>
+  <a href="https://instagram.com/gauravbits"><img src="https://img.shields.io/badge/Instagram-@gauravbits-FF0080?style=for-the-badge&logo=instagram" alt="instagram"></a>
+  
+  <a href="https://gauravbits.in"><img src="https://img.shields.io/badge/YouTube-Portfolio%20Site-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a>
+
+  <a href="https://x.com/gauravbuilds"><img src="https://img.shields.io/badge/Twitter-@gauravbuilds-1DA1F2?style=for-the-badge&logo=twitter" alt="twitter"></a>
+
+  <a href="https://linkedin.com/in/gaurav-gupta-4179671b0"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Gupta-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+
+  <a href="mailto:contactgaurav8@gmail.com"><img src="https://img.shields.io/badge/Email-contactgaurav8@gmail.com-3b82f6?style=for-the-badge&logo=gmail" alt="email"></a>
 </p>
