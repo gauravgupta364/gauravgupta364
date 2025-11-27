@@ -1,10 +1,3 @@
-<!--  =========================
-     Gaurav Gupta — GitHub Profile README
-     Theme: Futuristic / Neon / Minimal
-     Paste this into the README.md of repo `gauravgupta364`
-     Replace the placeholder links (YOUR_*) with real handles
-     ========================= -->
-
 <p align="center">
   <!-- Animated typing title -->
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Gaurav+Gupta;Software+Engineer+%E2%9A%80%EF%B8%8F+Creator+%7C+Java+%7C+React+%7C+TypeScript" alt="typing">
@@ -92,28 +85,3 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-@YOUR_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
   <a href="mailto:contactgaurav8@gmail.com"><img src="https://img.shields.io/badge/Email-contactgaurav8@gmail.com-3b82f6?style=for-the-badge&logo=gmail" alt="email"></a>
 </p>
-
----
-
-## 🧩 Make it even better (optional advanced upgrades)
-1. **Custom neon banner image** — upload to repo (e.g., `assets/banner.png`) and replace the banner `<img>` URL above.  
-2. **Auto-update README** — add the workflow + script below to show latest YouTube video, latest blog post, or a daily quote.  
-3. **Custom animated SVG cards** — I can generate a neon SVG “Now Learning” card or a “What I’m coding” dynamic widget that commits to the README each day.  
-4. **Pinned projects** — pin the 3 repos you want visible on your profile (use GitHub’s pin UI).
-
----
-
-## ▶️ How to install (quick)
-1. Create repo `gauravgupta364` (if not already) and paste this as `README.md`.  
-2. Replace all `YOUR_*` placeholders with your real handles/IDs.  
-3. (Optional) Create `assets/` and add a custom banner, then update that image URL.  
-4. Add the workflow `/.github/workflows/update-readme.yml` (next section) and the script `scripts/generate-readme.js` if you want automation.
-
----
-
-### If you want, I’ll also:
-- Generate the **neon SVG banner** and a **"Now learning" animated SVG card** and a ready-to-use `generate-readme.js`.  
-- Create the exact GitHub Action and commit-ready content so you can paste them into your repo.
-
-Tell me: **“Do it — generate banner + workflow + script”** and I’ll drop those files in the next message.  
-(Or copy-paste the above now and I’ll also produce the action + script below without you asking.)
