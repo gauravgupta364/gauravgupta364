@@ -13,7 +13,7 @@
 ## 🔭 Quick info
 - **Name:** Gaurav Gupta  
 - **Experience:** 5+ years industry experience (backend & frontend)  
-- **Primary Focus:** Java, React, TypeScript, FastAPI, Web UI, Creator content  
+- **Primary Focus:** Java, React, TypeScript, FastAPI, Web UI, Content Creator  
 - **Portfolio:** https://gauravbits.in  
 - **Email:** contactgaurav8@gmail.com
 
@@ -81,7 +81,7 @@
 <p>
   <a href="https://instagram.com/gauravbits"><img src="https://img.shields.io/badge/Instagram-@gauravbits-FF0080?style=for-the-badge&logo=instagram" alt="instagram"></a>
   
-  <a href="https://gauravbits.in"><img src="https://img.shields.io/badge/YouTube-Portfolio%20Site-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a>
+  <a href="https://www.youtube.com/@gauravbitss"><img src="https://img.shields.io/badge/YouTube-Portfolio%20Site-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a>
 
   <a href="https://x.com/gauravbuilds"><img src="https://img.shields.io/badge/Twitter-@gauravbuilds-1DA1F2?style=for-the-badge&logo=twitter" alt="twitter"></a>
 
